@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Tutorial4_Ex4_Ex5</string>
+	<string name="pushButton_label">Push Me!</string>
+	<string name="clickButton_label">Click Me!</string>
+</resources>

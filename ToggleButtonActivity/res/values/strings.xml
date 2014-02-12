@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToggleButtonActivity</string>
+    <string name="ssl_toggle_on">Use SSL</string>
+    <string name="ssl_toggle_off">No SSL</string>
+    <string name="gps_toggle_on">GPS On</string>
+    <string name="gps_toggle_off">GPS Off</string>
+    <string name="toggle_button_message_template" formatted="false">
+        You turned the ToggleButton %s.
+        Label is now \'%s\'.
+    </string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImageButtonsActivity</string>
+    <string name="image_button_message_template">You clicked the ImageButton that displays %s.</string>
+    <string name="image_button_4_image">the Drawable defined in button_android.xml</string>
+    <string name="image_button_5_image">the Drawable defined in button_dialog.xml</string>
+    <string name="image_button_6_image">the Drawable defined in button_rating_star.xml</string>
+</resources>

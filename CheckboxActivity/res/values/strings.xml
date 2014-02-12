@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CheckboxActivity</string>
+    <string name="button_message_template">You checked/unchecked the Checkbox that is labeled, "%s"".</string>
+    <string name="hi_label">Hi!</string>
+    <string name="bye_label">Bye!</string>
+    <string name="yo_label">Yo!</string>
+</resources>

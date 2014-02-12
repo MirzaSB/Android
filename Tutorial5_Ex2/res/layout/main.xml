@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<Button
+	    android:id="@+id/button1"
+	    android:layout_height="wrap_content"
+	    android:layout_width="match_parent"
+	    android:text="@string/hello"/>
+	<Button
+	    android:id="@+id/button2"
+	    android:layout_height="wrap_content"
+	    android:layout_width="match_parent"
+	    android:text="@string/goodbye"/>
+    <TextView
+        android:text="This is an android app for Tutorial #5, and Excercise #2. Clicking on the Hello button will pop up a 'Hello' message, and clicking on the Goodbye button will pop up a 'Goodbye' message. This is done using the seperate class approach."
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

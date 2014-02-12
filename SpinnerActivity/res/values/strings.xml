@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spinners (Combo Boxes)</string>
+    <string name="spinner1_prompt">Current Android Vendors (Choices from XML)</string>
+    <string-array name="spinner1_entries">
+        <item>Acer</item>
+        <item>Dell</item>
+        <item>HTC</item> 
+        <item>Huawei</item>
+        <item>Kyocera</item>
+        <item>LG</item>
+        <item>Motorola</item>
+        <item>Nexus</item>
+        <item>Samsung</item>
+        <item>Sony Ericsson</item>
+        <item>T-Mobile</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="spinner_message_template">You selected \'%s\'.</string>
+    <string name="spinner2_prompt">Future Android Vendors (Choices from Java)</string>
+</resources>

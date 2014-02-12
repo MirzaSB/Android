@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Tutorial 8 Excercises</string>
+    <string name="tutorial8_ex1_app_name">Tutorial 8, Excercise 1: LinearLayout</string>
+    <string name="tutorial8_ex2_app_name">Tutorial 8, Excercise 2: TableLayout</string>
+    <string name="tutorial8_ex3_app_name">Tutorial 8, Excercise 3: TableLayout Colors</string>
+    <string name="tutorial8_ex4_app_name">Tutorial 8, Excercise 4: RelativeLayout</string>
+
+</resources>

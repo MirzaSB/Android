@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+		<ImageButton
+        	android:src="@drawable/box_red"
+        	android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:onClick="setRedColor"/>
+    	<ImageButton
+        	android:src="@drawable/box_blue"
+        	android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:onClick="setBlueColor"/>
+    </LinearLayout>
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:gravity="center_horizontal">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/red_label"
+            android:onClick="setRedColor" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/blue_label"
+            android:onClick="setBlueColor" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/yellow_label" 
+            android:onClick="setYellowColor" />
+    </RadioGroup>
+    <TextView
+		android:id="@+id/color_region"
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"/>
+</LinearLayout>

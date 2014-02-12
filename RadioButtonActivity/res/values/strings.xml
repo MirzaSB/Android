@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadioButtonActivity</string>
+    <string name="button_message_template">You clicked on the RadioButton that is labeled, "%s"".</string>
+    <string name="hi_label">Hi!</string>
+    <string name="bye_label">Bye!</string>
+    <string name="yo_label">Yo!</string>
+</resources>

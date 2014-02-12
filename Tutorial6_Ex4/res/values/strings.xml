@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutorial6_Ex4</string>
+    <string name="red_label">Red</string>
+    <string name="blue_label">Blue</string>
+    <string name="yellow_label">Yellow</string>
+    <string name="not_red_label">Not Red</string>
+    <string name="not_blue_label">Not Blue</string>
+    <string name="not_yellow_label">Not Yellow</string>
+    <string name="buttonName">Set Color Chosen Above</string>
+</resources>

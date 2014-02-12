@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spinners (Colors)</string>
+    <string name="spinner1_prompt">Available Colors (Choices from XML)</string>
+    <string-array name="spinner1_colors">
+        <item>White</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Blue</item> 
+        <item>Green</item>
+    </string-array>
+    <string name="spinner_message_template">You selected \'%s\'.</string>
+    <string name="spinner2_prompt">Available Colors (Choices from Java)</string>
+</resources>

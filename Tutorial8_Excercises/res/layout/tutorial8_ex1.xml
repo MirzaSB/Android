@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RadioGroup
+        android:id="@+id/group1"
+		android:orientation="horizontal" 
+		android:gravity="center_horizontal"
+		android:layout_width="match_parent" 
+		android:layout_height="wrap_content"
+		android:checkedButton="@+id/red">
+        <RadioButton android:text="Red" 
+			android:layout_height="wrap_content" 
+			android:layout_width="wrap_content"
+			android:id="@+id/red"/>
+        <RadioButton android:text="Green" 
+			android:layout_height="wrap_content" 
+			android:layout_width="wrap_content"
+			android:id="@+id/green"/>
+        <RadioButton android:text="Blue"  
+			android:layout_height="wrap_content" 
+			android:layout_width="wrap_content"
+			android:id="@+id/blue"/>
+        <RadioButton android:text="White"  
+			android:layout_height="wrap_content" 
+			android:layout_width="wrap_content"
+			android:id="@+id/white"/>
+    </RadioGroup>
+	<LinearLayout
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content" 
+        android:gravity="right">
+		<Button android:text="Set Color" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:onClick="setViewColor"/>
+		<Button android:text="Clear" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:onClick="setBlackColor"/>
+	</LinearLayout>
+	<TextView
+	    android:id="@+id/color_region"
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:background="#ffffff"/>
+</LinearLayout>

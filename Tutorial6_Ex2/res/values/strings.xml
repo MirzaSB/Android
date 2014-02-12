@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutorial6_Ex2</string>
+    <string name="red_label">Red</string>
+    <string name="blue_label">Blue</string>
+    <string name="yellow_label">Yellow</string>
+</resources>

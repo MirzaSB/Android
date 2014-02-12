@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadioGroupActivity</string>
+    <string name="new_selection_message_template">
+        You selected the \'%s\' RadioButton.
+        There was no previous selection.
+    </string>
+    <string name="changed_selection_message_template"
+        formatted="false">
+        You selected the \'%s\' RadioButton.
+        Previous selection was \'%s\'.
+    </string>
+    <string name="hi_label">Hi!</string>
+    <string name="bye_label">Bye!</string>
+    <string name="yo_label">Yo!</string>
+</resources>

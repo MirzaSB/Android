@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+    <RadioGroup
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal">
+    	<RadioButton
+       		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:text="@string/hi_label"
+    		android:onClick="showButtonText"/>
+    	<RadioButton
+        	android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:text="@string/bye_label"
+    		android:onClick="showButtonText"/>
+    	<RadioButton
+        	android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:text="@string/yo_label"
+    		android:onClick="showButtonText"/>
+    </RadioGroup>
+</LinearLayout>

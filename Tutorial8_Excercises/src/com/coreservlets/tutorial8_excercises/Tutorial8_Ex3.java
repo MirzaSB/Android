@@ -8,7 +8,7 @@ import android.app.AlertDialog;
 import android.graphics.Color;
 
 /**
- * Developer: Mirza Shiraz Baig
+ * Developer: Mirza S. Baig
  * Created Date: 2-8-2014
  * Description: This app is the solution of Tutorial 8's third excercise. The second excercise's question is below:
  * 				In the previous example, make the foreground colors of the first three buttons be 

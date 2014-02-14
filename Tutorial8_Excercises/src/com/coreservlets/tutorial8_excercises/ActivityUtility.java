@@ -5,7 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 
 /**
- * Developer: Mirza Shiraz Baig
+ * Developer: Mirza S. Baig
  * Created Date: 1-25-2014
  * Description: This class is used to switch to another Java class's activity. Intent can carry a collection of various data types as key-value pairs called extras. 
  * 				The idea is to call the "startActivity()" method, and pass it in the "Intent".

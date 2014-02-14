@@ -6,7 +6,7 @@ import android.content.Context;
 import android.content.res.Configuration;
 
 /**
- * Developer: Mirza Shiraz Baig
+ * Developer: Mirza S. Baig
  * Created Date: 1-25-2014
  * Description: This class changes the Locale programmatically.
  * Revision History: 

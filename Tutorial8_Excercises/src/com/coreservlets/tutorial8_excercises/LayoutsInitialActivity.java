@@ -5,10 +5,11 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * Developer: Mirza Shiraz Baig
+ * Developer: Mirza S. Baig
  * Created Date: 1-25-2014
  * Description: This class is used as an a preliminary path that would take the user to the 4 solution apps of the "Layouts" section. 
- * Revision History: 
+ * Revision History:
+ * 2-13-2014 | Mirza | Completed testing the app on the Nexus 4 (Using Android 4.2.2) device. Works great.
  */
 
 public class LayoutsInitialActivity extends Activity {
@@ -35,10 +36,9 @@ public class LayoutsInitialActivity extends Activity {
 		ActivityUtility.goToActivity(this, Tutorial8_Ex3.class);
 	}
 	
-	/*
 	//Switch to the "Tutorial8_Ex4" activity
 	public void Tutorial8_Ex4(View clickedButton) {
-		//ActivityUtility.goToActivity(this, Tutorial8_Ex4.class);
+		ActivityUtility.goToActivity(this, Tutorial8_Ex4.class);
 	}
-*/
+
 }

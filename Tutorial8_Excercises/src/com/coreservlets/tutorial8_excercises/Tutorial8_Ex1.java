@@ -7,7 +7,7 @@ import android.app.Activity;
 import android.graphics.Color;
 
 /**
- * Developer: Mirza Shiraz Baig
+ * Developer: Mirza S. Baig
  * Created Date: 1-25-2014
  * Description: This app is the solution of Tutorial 8's first excercise. The first excercise's question is below:
  * 				Make a screen that has a row of centered Radio buttons (Red, Green, Blue, White with Red initially selected), a right aligned row of buttons next 

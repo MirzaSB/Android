@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 
 /**
- * Developer: Mirza Shiraz Baig
+ * Developer: Mirza S. Baig
  * Created Date: 2-3-2014
  * Description: This app is the solution of Tutorial 8's second excercise. The second excercise's question is below:
  * 				Make a screen with a row of 3 buttons (“Color 1”, “Color 2”, and “Color 3”) across the top. Make the third button
